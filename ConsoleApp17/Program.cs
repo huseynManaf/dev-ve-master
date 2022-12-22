@@ -12,7 +12,7 @@
             int san = saniye % 60;
             Console.WriteLine($"{gun} gun {saat} saat {deq}deqiqe {san} saniye");
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("master");
+            Console.WriteLine("dev");
             Console.WriteLine("Hello, World!");
         }
     }
